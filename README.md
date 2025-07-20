@@ -29,7 +29,7 @@
     </style>
 </head>
 <body>
-    <h1>Tech Tre</h1>
+    <h1>Tech Trek</h1>
     <p>Learn without limits</p>
 </body>
 </html>
